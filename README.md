@@ -12,4 +12,4 @@ Game Screenshots
 
 ![ssgam1](https://user-images.githubusercontent.com/88393756/198830354-40dcdf43-fb63-499c-8836-5dbbe46ccfea.jpg)
 
-![ssgam2](https://user-images.githubusercontent.com/88393756/198830360-039f8a6f-9b53-4861-9a88-0344cb9832e8.jpg)
+![game ss21](https://user-images.githubusercontent.com/88393756/198830462-46c36f2f-5220-4060-8665-e778a192ccc8.jpg)
